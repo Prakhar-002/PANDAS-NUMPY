@@ -28,7 +28,7 @@ This repo covers `NumPy` 🧮 for numerical computing and `Pandas` 🐼 for data
 
       Explore Pandas & NumPy Basics
 
-      / TypeScript 
+      / PANDAS-NUMPY 
             |    
             ├──  PANDAS.py     --> Basics of Pandas 🐼
             |   
